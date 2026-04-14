@@ -1,4 +1,4 @@
-## Radverkehr in München – Raddauerzählstellen
+## Data Story: Der Takt des Radverkehrs – Trends und Muster erkennen
 
 In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-radverkehr/blob/main/radverkehr.ipynb) (Google-Konto notwendig)
 
